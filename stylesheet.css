@@ -47,6 +47,9 @@ table {
 	border-spacing: 0;
 }
 /*my code starts here*/
-
-
-
+.right-a {
+	float: right;
+}
+.left-a {
+	float: left;
+}
