@@ -55,7 +55,9 @@ table {
 	float: left;
 	margin: 15px;
 }
-
+.account-img-a {
+	border-radius: 50%;
+}
 .logo-img-container{
 	display: flex;
 	justify-content: center;
