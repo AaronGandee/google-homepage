@@ -56,10 +56,13 @@ table {
 	margin: 15px;
 }
 
-.logo-img {
+.logo-img-container{
 	display: flex;
 	justify-content: center;
 	padding-top: 250px;
+}
+.logo-img{
+	padding-left: 50px;
 }
 .search-bar {
 	display: flex;
@@ -81,10 +84,23 @@ table {
 }
 button {
 	margin: 5px;
+	margin-bottom: 20px;
 	background-color: #f8f9fa;
-	border: solid 1px #f8f9fa;
+	border: solid 1px #dddedf;
 	padding: 10px;	
+	border-radius: 10px;
 }
 .mid-link {
 	padding-left: 650px;
+}
+.footer-anchors {
+	margin-top: 375px;
+	padding-top: 5px;		
+}
+.middle-foot-a {
+	padding-left: 520px;
+	padding-right: 710px;
+}
+footer {
+	background-color: #dddedf;	
 }
