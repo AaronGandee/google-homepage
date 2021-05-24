@@ -47,14 +47,8 @@ table {
 	border-spacing: 0;
 }
 /*my code starts here*/
-div {
-    border: solid 5px;
-    border-color: coral;
-    display: flex;
-    justify-content: center; 
+
+	
+	
 }
-ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-  }
+
