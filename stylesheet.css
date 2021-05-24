@@ -53,3 +53,8 @@ table {
 .left-a {
 	float: left;
 }
+
+.logo-img {
+	display: flex;
+	justify-content: center;
+}
