@@ -47,6 +47,10 @@ table {
 	border-spacing: 0;
 }
 /*my code starts here*/
+a {
+	color: black;
+	text-decoration: none;;
+}
 .right-a {
 	float: right;
 	margin: 15px;
