@@ -49,12 +49,26 @@ table {
 /*my code starts here*/
 .right-a {
 	float: right;
+	margin: 5px;
 }
 .left-a {
 	float: left;
+	margin: 5px;
 }
 
 .logo-img {
 	display: flex;
 	justify-content: center;
+	padding-top: 250px;
+}
+.search-bar {
+	display: flex;
+	justify-content: center;
+}
+.middle-buttons {
+	display: flex;
+	justify-content: center;
+}
+button {
+	margin: 5px;
 }
