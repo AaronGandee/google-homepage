@@ -64,11 +64,18 @@ table {
 .search-bar {
 	display: flex;
 	justify-content: center;
+	padding-right: 80px;		
 }
+
 .middle-buttons {
 	display: flex;
 	justify-content: center;
+	padding-right: 80px;
+	padding-top: 60px;
 }
 button {
 	margin: 5px;
+	background-color: #f8f9fa;
+	border: solid 1px #f8f9fa;
+	padding: 10px;	
 }
